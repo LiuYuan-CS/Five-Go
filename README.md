@@ -5,3 +5,4 @@ You can choose the game type when you first enter the game.
 1
 2
 3
+7
